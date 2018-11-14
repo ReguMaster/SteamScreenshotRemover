@@ -53,7 +53,7 @@ function deleteRequest( )
     var screenShots = {};
 
     var datapre = {
-        action: "private",
+        action: "delete", // delete: 삭제, private: 비공개 설정
         sessionid: sessionID
     };
 

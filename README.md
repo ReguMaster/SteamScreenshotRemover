@@ -5,5 +5,6 @@
 귀하의 스팀 프로필 스크린샷 페이지에 전체 삭제 버튼을 추가합니다.
 
 ![Example](.res/example.png)
+![Example](.res/bugs.gif)
 
 ###### Tampermonkey 확장 프로그램 전용입니다.
