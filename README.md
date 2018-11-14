@@ -1,4 +1,4 @@
-![Introduction](.res/logo.png)
+![Introduction](.res/logo_image.png)
 
 # Steam Screenshot Remover - 스팀 스크린샷 제거기
 당신의 스팀 프로필의 스크린샷 흑역사를 한번에 싹 제거하세요.<br />
